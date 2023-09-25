@@ -1,19 +1,21 @@
 <h2>Useful Links</h2>
 <ul>
   <li><a href="https://cloud.ibm.com/login" target="_blank"><strong>IBM Cloud</strong></a>: Official website for IBM Cloud.</li>
+  <li><a href="https://www.ibm.com/academic/home" target="_blank"><strong>IBM SkillsBuild</strong></a>: Official website for IBM SkillsBuild</li>
+  <li><a href="https://github.com/" target="_blank"><strong>Github</strong></a>: Official website for Github</li>
+  <li><a href="https://youtu.be/7xOyKl80iUk?si=MHsM9DBMCRSVHphp" target="_blank"><strong>IBM SkillsBuild & Cloud Account Creation Procedure Video</strong></a>: A suggested video to Create your IBM account.</li>
   <li><a href="https://youtu.be/4It0D0Nw00c" target="_blank"><strong>DevOps Tools Video</strong></a>: A suggested video to learn more about DevOps tools.</li>
+  
 </ul>
 
 <h2>Flask</h2>
 <ul>
   <li><a href="https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application" target="_blank"><strong>Official Documentation</strong></a>: The official documentation for Flask.</li>
-  <li><a href="https://www.tutorialspoint.com/flask/index.htm" target="_blank"><strong>Tutorials Point</strong></a>: Tutorials Point provides Flask tutorials with examples.</li>
 </ul>
 
 <h2>Red Hat Developer Sandbox</h2>
 <ul>
-  <li><a href="https://developers.redhat.com/developer-sandbox" target="_blank"><strong>Signup to Redhat Developer Sandbox</strong></a>: The official documentation for Flask.</li>
-  <li><a href="https://www.tutorialspoint.com/flask/index.htm" target="_blank"><strong>Tutorials Point</strong></a>: Tutorials Point provides Flask tutorials with examples.</li>
+  <li><a href="https://developers.redhat.com/developer-sandbox" target="_blank"><strong>Signup to Redhat Developer Sandbox</strong></a></li>
 </ul>
 
 <h2>IBM Db2</h2>
