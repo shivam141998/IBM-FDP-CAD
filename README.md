@@ -1,5 +1,5 @@
 <a href="https://github.com/shivam141998/IBM-FDP-CAD">
- <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
+ <img src="https://github.com/shivam141998/IBM-FDP-CAD/assets/31761806/43530230-846f-43b4-b509-21f5f1b2d84b">
 </a>
 
 
