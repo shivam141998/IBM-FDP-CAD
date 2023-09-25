@@ -50,4 +50,5 @@
   </li>
   <li><a href="https://docs.docker.com/">Docker Documentation</a></li>
   <li><a href="https://docs.docker.com/engine/reference/commandline/cli/">Docker CLI Command Reference</a> - Comprehensive documentation on Docker's command-line interface (CLI), providing details and examples of various Docker commands.</li>
+ <li><a href="https://hub.docker.com">Docker Hub</a> - Signup to Docker Hub</li>
 </ul>
