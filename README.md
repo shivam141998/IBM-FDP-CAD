@@ -4,7 +4,9 @@
   <li><a href="https://www.ibm.com/academic/home" target="_blank"><strong>IBM SkillsBuild</strong></a>: Official website for IBM SkillsBuild</li>
   <li><a href="https://github.com/" target="_blank"><strong>Github</strong></a>: Official website for Github</li>
   <li><a href="https://youtu.be/7xOyKl80iUk?si=MHsM9DBMCRSVHphp" target="_blank"><strong>IBM SkillsBuild & Cloud Account Creation Procedure Video</strong></a>: A suggested video to Create your IBM account.</li>
-  <li><a href="https://youtu.be/4It0D0Nw00c" target="_blank"><strong>DevOps Tools Video</strong></a>: A suggested video to learn more about DevOps tools.</li>
+  <li><a href="https://www.anaconda.com/download" target="_blank"><strong>Anaconda Navigator</strong></a>: Download and Install Anaconda Distribution Package.</li>
+  <li><a href="https://code.visualstudio.com/" target="_blank"><strong>Visual Studio Code</strong></a>: Download and Install Visual Studio Code.</li>
+  <li><a href="https://smartinternz.com/educator-login" target="_blank"><strong>SmartInternz</strong></a>: Access Project Workspace</li>
   
 </ul>
 
